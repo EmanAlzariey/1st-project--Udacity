@@ -1,0 +1,26 @@
+{
+  "name": "1st-project",
+  "version": "1.0.0",
+  "description": "Udacity create your own private blockchain",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bapp\u001b[C\u001b\u001b[C\u001b[C",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EmanAlzariey/1st-project--Udacity.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Eman Al-zariey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanAlzariey/1st-project--Udacity/issues"
+  },
+  "homepage": "https://github.com/EmanAlzariey/1st-project--Udacity#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "level": "^6.0.0"
+  }
+}
